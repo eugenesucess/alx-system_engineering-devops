@@ -1,1 +1,0 @@
-Shell bascis froM alx
